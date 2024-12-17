@@ -1,0 +1,14 @@
+names:
+- BLOTCH
+- HEALTHY
+- ROT
+- SCAB
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: apple-disease-detection-migl6
+  url: https://universe.roboflow.com/pfe-zjo9z/apple-disease-detection-migl6/dataset/7
+  version: 7
+  workspace: pfe-zjo9z
+train: D:\Sem7\CV\UAS CV\Apple-Disease-Detection-7\train\images
+val: D:\Sem7\CV\UAS CV\Apple-Disease-Detection-7\valid\images
